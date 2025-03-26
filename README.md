@@ -3,7 +3,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jlu005807&theme=tokyonight) 
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-rainbow.svg)
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-view.svg)
 
 
 
