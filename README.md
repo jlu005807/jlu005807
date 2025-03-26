@@ -1,9 +1,6 @@
 ## Hi there 👋
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jlu005807&theme=tokyonight) 
 
-<!--
-**jlu005807/jlu005807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
