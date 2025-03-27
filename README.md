@@ -5,8 +5,8 @@
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-view.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlu005807/jlu005807/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jlu005807/jlu00580/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jlu005807/jlu005807/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jlu005807/jlu005807/output/github-contribution-grid-snake.svg">
 </picture>
 
 
